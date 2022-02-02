@@ -1,0 +1,138 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    background-image: url(//cdn.shopify.com/s/files/1/0425/2899/7539/files/QuadrantMini_Header1_1800x.jpg?v=1638894844);
+}
+*{
+    text-decoration: none;
+}
+header{
+    position: relative;
+}
+
+.logo img{
+    width: auto;
+    height: auto;
+}
+#quadrant-logo{
+    width: auto;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#inc-logo{
+    width:  50px;
+    margin-left: 10px;
+}
+#quadrant-logo2{
+    width: 100px;
+    height: auto;
+    position: relative;
+    margin-left: 1811px;
+    margin-top: -50px;
+}
+.login{
+    position: relative;
+    margin-top: 350px;
+    color: white;
+}
+#ln{
+    margin-left: 50px;
+}
+
+input{
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 50px;
+    text-align: center;
+    cursor: text;
+}
+input[type=email]{
+    background-color: transparent;
+    color: inherit;
+    border: 0;
+    border-bottom: 2px solid;
+    border-bottom-color: black;
+    max-width: 100%;
+    padding: 8px 0;
+    border-radius: 0;
+}
+input[type=password]{
+    background-color: transparent;
+    color: inherit;
+    border: 0;
+    border-bottom: 2px solid;
+    border-bottom-color: black;
+    max-width: 100%;
+    padding: 8px 0;
+    border-radius: 0;
+}
+
+input:active{
+    border: none;
+}
+input[type=submit]{
+    box-sizing: border-box;
+    width: 120px;
+    height: 49.55px;
+    min-width: 90px;
+    background-color: yellow;
+    border: none;
+    margin-left: 50px;
+    padding: 10px 25px;
+    border-radius: 25px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.signup{
+    position:relative ;
+    margin-top: 50px;
+    margin-left: 50px;
+    color:  white;
+    text-decoration: none;
+}
+button{
+    box-sizing: border-box;
+    width: 120px;
+    height: 49.55px;
+    min-width: 90px;
+    background-color: yellow;
+    border: none;
+    margin-left: 50px;
+    padding: 10px 25px;
+    border-radius: 25px;
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+button a{
+    color: black;
+}
+footer{
+    margin-top: 69px;
+    margin-left: 20px;
+    width: 850px;
+    height: 102px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+}
+.copyright{
+    color: white;
+}
+.copyright img{
+    width: 75px;
+    height: auto;
+    position: relative;
+}
+#ql3{
+    margin-left: 360px;
+    margin-right: 20px;
+    margin-top: -15px;
+}
+h3{
+    padding: 5px;
+}

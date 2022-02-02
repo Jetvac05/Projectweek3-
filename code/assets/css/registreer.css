@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    background-image: url(//cdn.shopify.com/s/files/1/0425/2899/7539/files/QuadrantMini_Header1_1800x.jpg?v=1638894844);
+}
+*{
+    text-decoration: none;
+}
+header{
+    position: relative;
+}
+
+.logo img{
+    width: auto;
+    height: auto;
+}
+#quadrant-logo{
+    width: auto;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#inc-logo{
+    width:  50px;
+    margin-left: 10px;
+}
+#quadrant-logo2{
+    width: 100px;
+    height: auto;
+    position: relative;
+    margin-left: 1811px;
+    margin-top: -50px;
+}
