@@ -1,8 +1,15 @@
+html{
+    width: 100%;
+    height: 100%;
+}
 body{
     background-color: black;
     padding: 0;
     margin: 0;
     background-image: url(//cdn.shopify.com/s/files/1/0425/2899/7539/files/QuadrantMini_Header1_1800x.jpg?v=1638894844);
+    background-size: contain;
+    width: 100%;
+    height: 100%;
 }
 *{
     text-decoration: none;
@@ -113,7 +120,7 @@ button a{
     color: black;
 }
 footer{
-    margin-top: 69px;
+    margin-top: 3   9px;
     margin-left: 20px;
     width: 850px;
     height: 102px;
@@ -135,4 +142,10 @@ footer{
 }
 h3{
     padding: 5px;
+}
+
+@media only screen and (max-width: 390px){
+    body{
+        background-color: lightblue;
+    }
 }
